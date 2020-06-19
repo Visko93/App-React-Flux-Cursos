@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0.5em 0.1em;
+
+}
+
+.nav a {
+  padding: 0.5em;
+}
+
+.nav:hover:any-link {
+  text-decoration: none;
+  box-shadow: 1px 1px 2px #0f0f0f;
+  transition: ease-in 0.3s;
+}
