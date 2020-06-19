@@ -3,7 +3,7 @@
 ---
 
 
-<img src=”https://www.imagemhost.com.br/image/RCMqZ”>
+![](”https://www.imagemhost.com.br/image/RCMqZ”)
 
 ## Tecnologias Utilizadas
 
