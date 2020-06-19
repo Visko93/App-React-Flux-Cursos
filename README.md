@@ -2,8 +2,7 @@
 # Projeto com JSON-server
 ---
 
-
-![](”https://www.imagemhost.com.br/image/RCMqZ”)
+[![Flux_proj_PEQ.gif](https://www.imagemhost.com.br/images/2020/06/19/Flux_proj_PEQ.gif)](https://www.imagemhost.com.br/image/RCMqZ)
 
 ## Tecnologias Utilizadas
 
@@ -14,11 +13,12 @@
 - Arquitetura Flux
 
 
-Clone o repositório <br/>
-<code>git clone </code>
+```bash
+//Clone o repositório
+git clone https://github.com/Visko93/App-React-Flux-Cursos
 
-Inicie os módulos <br/>
-<code>yarn</code>
-
+//Inicie os módulos
+yarn init
+```
 
 > Todo o projeto foi construido com base no curso da plataforma Pluralsight, ministrado por [Cory House](https://twitter.com/housecor)
